@@ -22,6 +22,8 @@ TBD
 
 Création d’une application de chat simple en équipe de 2.
 
+Les dates de remise sont sujettes à changement.
+
 - Création de l’interface utilisateur - 7 octobre
 - Création et intégration d’un API - 28 octobre
 - Intégration d’une base de donnée - 18 novembre
