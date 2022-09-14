@@ -16,19 +16,19 @@ Démonstrateurs : TBD
 
 ### Final
 
-TBD
+16 décembre 2022
 
 ## Travaux Pratiques
 
 Création d’une application de chat simple en équipe de 2.
 
-Les dates de remise sont sujettes à changement, mais seront fixées sous peu.
+Les dates de début et de remise:
 
-- Création de l’interface utilisateur - 7 octobre
-- Création et intégration d’un API - 28 octobre
-- Intégration d’une base de donnée - 18 novembre
-- Tests et gestion d’erreurs - 2 décembre
-- Déploiement - 16 décembre
+- Création de l’interface utilisateur - 23 sept, remise le 7 oct
+- Création et intégration d’un API - 7 oct, remise le 21 oct
+- Intégration d’une base de donnée - 21 oct, remise le 11 nov
+- Tests et gestion d’erreurs - 11 nov, remise le 25 nov
+- Déploiement - 25 nov, remise le 16 déc
 
 ## Horaire
 
