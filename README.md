@@ -64,6 +64,7 @@ Aucun labo
 - [FAQ React - Structure de fichiers](https://fr.reactjs.org/docs/faq-structure.html)
 - [Typescript en 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 - [Installation Angular](https://angular.io/guide/setup-local)
+- [Tutoriel Angular](https://angular.io/tutorial)
 - [Angular - Résumé](https://angular.io/guide/cheatsheet)
 - [Aperçu RxJs](https://rxjs.dev/guide/overview)
 - [Diagramme billes pour RxJS](https://rxmarbles.com/)
