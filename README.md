@@ -44,3 +44,30 @@ Les dates de remise sont sujettes à changement, mais seront fixées sous peu.
 #### Labo
 
 Aucun labo
+
+### 02 - 14 septembre
+
+#### Cours
+
+- [1.3 Modele MVC](cours/02/1.3-patron-mvc.pdf)
+- [2.1 Couche Présentation](cours/02/2.1-couche-pr%C3%A9sentation.pdf)
+- [Démo détection de changements Angular](https://github.com/coderunner/ng-change-detect)
+- [Intro Typescript](https://gist.github.com/coderunner/372f2a4af8c64a00a126648976831192)
+- [Démo Angular](https://github.com/coderunner/angular-tuto)
+
+#### Autres ressources
+
+- [Material Design](https://material.io/)
+- [Angular Material](https://material.angular.io/)
+- [I built the same app 10 times](https://www.youtube.com/watch?v=cuHDQhDhvPE)
+- [Guide de Style Angular](https://angular.io/guide/styleguide)
+- [FAQ React - Structure de fichiers](https://fr.reactjs.org/docs/faq-structure.html)
+- [Typescript en 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+- [Installation Angular](https://angular.io/guide/setup-local)
+- [Angular - Résumé](https://angular.io/guide/cheatsheet)
+- [Aperçu RxJs](https://rxjs.dev/guide/overview)
+- [Diagramme billes pour RxJS](https://rxmarbles.com/)
+
+#### Labo
+
+Aucun labo
