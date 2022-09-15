@@ -54,6 +54,7 @@ Aucun labo
 - [Démo détection de changements Angular](https://github.com/coderunner/ng-change-detect)
 - [Intro Typescript](https://gist.github.com/coderunner/372f2a4af8c64a00a126648976831192)
 - [Démo Angular](https://github.com/coderunner/angular-tuto)
+- [Démo Angular - Vidéos](https://youtube.com/playlist?list=PLw6ojWmSODYrnR7ww9X4s2mDLo_qoB9Gm)
 
 #### Autres ressources
 
