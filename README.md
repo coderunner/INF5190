@@ -73,3 +73,19 @@ Aucun labo
 #### Labo
 
 Aucun labo
+
+### 03 - 21 septembre
+
+#### Cours
+
+- [Démo sérialisation](https://github.com/coderunner/ser-demo)
+- [Démo gRPC](https://github.com/coderunner/demo-grpc)
+
+#### Autres ressources
+
+- [Flask](https://flask.palletsprojects.com/en/2.2.x/)
+- [gRPC](https://grpc.io/)
+
+#### Labo
+
+- [TP1 - Angular](tp/tp1/tp1-angular.pdf)
