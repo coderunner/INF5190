@@ -78,12 +78,15 @@ Aucun labo
 
 #### Cours
 
+- [3.1 Couche de traitement - Services et communication](cours/03/3.1-couche-de-traitement-services.pdf)
 - [Démo sérialisation](https://github.com/coderunner/ser-demo)
 - [Démo gRPC](https://github.com/coderunner/demo-grpc)
 
 #### Autres ressources
 
 - [Flask](https://flask.palletsprojects.com/en/2.2.x/)
+- [Zookeeper](https://zookeeper.apache.org/)
+- [Postman](https://www.postman.com/)
 - [gRPC](https://grpc.io/)
 
 #### Labo
