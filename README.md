@@ -85,7 +85,6 @@ Aucun labo
 #### Autres ressources
 
 - [Flask](https://flask.palletsprojects.com/en/2.2.x/)
-- [Zookeeper](https://zookeeper.apache.org/)
 - [Postman](https://www.postman.com/)
 - [gRPC](https://grpc.io/)
 
