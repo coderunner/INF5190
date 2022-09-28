@@ -91,3 +91,26 @@ Aucun labo
 #### Labo
 
 - [TP1 - Angular](tp/tp1/tp1-angular.pdf)
+- [TP1 - Vidéo Précision onLogin et Typescript](https://youtu.be/-5Bd7WO9gvg)
+
+### 04 - 28 septembre
+
+#### Cours
+
+- [4.1 Couche de traitement - Microservices et API](/cours/04/4.1-couche-de-traitement-microservices-et-api.pdf)
+- [Article - Microservice architecture at Medium](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f)
+- [Démo Spring Boot](https://github.com/coderunner/spring-api-demo)
+
+#### Autres ressources
+
+- [Le versionnage sématique](https://semver.org/)
+- [Stripe API Produits](https://stripe.com/docs/api/products)
+- [Stripe API Charges](https://stripe.com/docs/api/charges)
+- [Github API Commentaires](https://docs.github.com/en/rest/issues/comments)
+- [Guide API Google](https://cloud.google.com/apis/design)
+- [Guide AIP Miscrosoft](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+- [GrapgQL](https://graphql.org/)
+
+#### Labo
+
+Suite du TP1
