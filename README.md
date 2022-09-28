@@ -109,7 +109,8 @@ Aucun labo
 - [Github API Commentaires](https://docs.github.com/en/rest/issues/comments)
 - [Guide API Google](https://cloud.google.com/apis/design)
 - [Guide AIP Miscrosoft](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design)
-- [GrapgQL](https://graphql.org/)
+- [GraphQL](https://graphql.org/)
+- [Spring Boot Quickstart](https://spring.io/quickstart)
 
 #### Labo
 
