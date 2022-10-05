@@ -115,3 +115,23 @@ Aucun labo
 #### Labo
 
 Suite du TP1
+
+### 05 - 5 octobre
+
+#### Cours
+
+- [5.1 Couche de données](/cours/05/5.1-couche-de-donn%C3%A9es.pdf)
+
+#### Autres ressources
+
+- [Modélisation NoQSL](https://redis.com/blog/nosql-data-modeling/#:~:text=What%20is%20a%20NoSQL%20data,how%20it%20all%20connects%20together)
+- [Redis](https://redis.com/)
+- [Get to know - Cloud Firestore](https://www.youtube.com/playlist?app=desktop&list=PLl-K7zZEsYLluG5MCVEzXAQ7ACZBCuZgZ)
+- [neo4j](https://neo4j.com/)
+- [Algolia](https://www.algolia.com/)
+
+#### Labo
+
+Remise du TP1 (au plus tard vendredi 7 octobre 23:59)
+
+[TP2 - Spring](tp/tp2/tp2-spring.pdf)
