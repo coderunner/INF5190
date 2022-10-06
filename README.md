@@ -134,4 +134,6 @@ Suite du TP1
 
 Remise du TP1 (au plus tard vendredi 7 octobre 23:59)
 
-[TP2 - Spring](tp/tp2/tp2-spring.pdf)
+- [TP2 - Spring](tp/tp2/tp2-spring.pdf)
+- [TP2 - Vidéo d'introduction](https://youtu.be/3SerWmh_wic)
+- [TP2 - Vidéo Async et Await](https://youtu.be/_TTrZya-wmo)
