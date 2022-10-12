@@ -137,3 +137,26 @@ Remise du TP1 (au plus tard vendredi 7 octobre 23:59)
 - [TP2 - Spring](tp/tp2/tp2-spring.pdf)
 - [TP2 - Vidéo d'introduction](https://youtu.be/3SerWmh_wic)
 - [TP2 - Vidéo Async et Await](https://youtu.be/_TTrZya-wmo)
+
+### 06 - 12 octobre
+
+#### Cours
+
+- [6.1 Authentification](/cours/06/6.1-authentification.pdf)
+- [6.2 Internationalisation](/cours/06/6.2-internationalisation.pdf)
+- [Démo - Internationalisation Angular](https://github.com/coderunner/demo-traduction-angular)
+
+#### Autres ressources
+
+- [Encodage Base64](https://fr.wikipedia.org/wiki/Base64)
+- [JSON Web Token](https://jwt.io/)
+- [OAuth Playground - Autorization Code Flow](https://www.oauth.com/playground/)
+- [LinkedIn Autorization Code Flow](https://learn.microsoft.com/en-us/linkedin/shared/authentication/authorization-code-flow?tabs=HTTPS)
+- [LinkedIn Client Credential Flow](https://learn.microsoft.com/en-us/linkedin/shared/authentication/client-credentials-flow)
+- [Intl - API javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl)
+- [Angular - Internationalisation](https://angular.io/guide/i18n-overview)
+- [Transloco](https://ngneat.github.io/transloco/)
+
+#### Labo
+
+Suite TP2
