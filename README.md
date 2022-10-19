@@ -160,3 +160,25 @@ Remise du TP1 (au plus tard vendredi 7 octobre 23:59)
 #### Labo
 
 Suite TP2
+
+### 07 - 19 octobre
+
+#### Cours
+
+- [7.1 Gestion d'erreurs et résilience](/cours/07/7.1-gestion-erreurs-et-resilience.pdf)
+- [Examen Intra - Information](/cours/07/Intra-INF5190-Information.pdf)
+- [Démo Validation Angular](https://github.com/coderunner/angular-form-validation-demo)
+- [Démo Résilience Spring](https://github.com/coderunner/resilience-demo)
+
+#### Autres ressources
+
+- [Validateurs Angular](https://angular.io/api/forms/Validators)
+- [Input Material Design](https://material.angular.io/components/input/examples#input-errors)
+- [Angular ErrorHandler](https://angular.io/api/core/ErrorHandler)
+- [Sentry](https://sentry.io/welcome/)
+- [Resilience4j](https://resilience4j.readme.io/docs)
+
+#### Labo
+
+Remise du TP2 (au plus tard vendredi 21 octobre 23:59)
+TP3 à venir
