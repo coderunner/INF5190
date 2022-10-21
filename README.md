@@ -181,4 +181,6 @@ Suite TP2
 #### Labo
 
 Remise du TP2 (au plus tard vendredi 21 octobre 23:59)
-TP3 à venir
+
+- [TP3 - Firebase](/tp/tp3/TP3-firebase.pdf)
+- [TP3 - Firebase - Vidéo d'introduction](https://youtu.be/-lteDTP_xIY)
