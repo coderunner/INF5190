@@ -184,3 +184,26 @@ Remise du TP2 (au plus tard vendredi 21 octobre 23:59)
 
 - [TP3 - Firebase](/tp/tp3/TP3-firebase.pdf)
 - [TP3 - Firebase - Vidéo d'introduction](https://youtu.be/-lteDTP_xIY)
+
+### 08 - 26 octobre
+
+Examen Intra
+
+### 09 - 2 novembre
+
+#### Cours
+
+- [9.1 Sécurité](/cours/09/9.1-s%C3%A9curit%C3%A9.pdf)
+
+#### Autres ressources
+
+- [Politique Same-Origin](https://developer.mozilla.org/fr/docs/Web/Security/Same-origin_policy)
+- [Politique de sécurité de contenu](https://developer.mozilla.org/fr/docs/Web/HTTP/CSP)
+- [Attribut SameSite](https://developer.mozilla.org/fr/docs/Web/HTTP/Headers/Set-Cookie/SameSite)
+- [CORS](https://developer.mozilla.org/fr/docs/Web/HTTP/CORS)
+- [OWASP Cheatsheets](https://cheatsheetseries.owasp.org/index.html)
+- [Site d'exercices](https://portswigger.net/)
+
+#### Labo
+
+Suite TP3
