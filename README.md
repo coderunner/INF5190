@@ -207,3 +207,21 @@ Examen Intra
 #### Labo
 
 Suite TP3
+
+### 09 - 2 novembre
+
+#### Cours
+
+- [10.1 Tests et performance](/cours/10/10.1-tests-performance.pdf)
+- [Démo - tests](https://github.com/coderunner/demo-tests)
+
+#### Autres ressources
+
+- [Tests avec Angular](https://angular.io/guide/testing)
+- [Tests avec SpringBoot](https://spring.io/guides/gs/testing-web/)
+- [Visual VM](https://visualvm.github.io/)
+
+#### Labo
+
+Remise du TP3 (au plus tard vendredi 11 novembre 23:59).
+TP4 à venir.
