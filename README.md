@@ -208,7 +208,7 @@ Examen Intra
 
 Suite TP3
 
-### 09 - 2 novembre
+### 10 - 9 novembre
 
 #### Cours
 
