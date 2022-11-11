@@ -224,4 +224,5 @@ Suite TP3
 #### Labo
 
 Remise du TP3 (au plus tard vendredi 11 novembre 23:59).
-TP4 à venir.
+
+- [TP4 - Gestion d'erreur et tests](/tp/tp4/TP4-erreur-et-tests.pdf)
