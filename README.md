@@ -226,3 +226,23 @@ Suite TP3
 Remise du TP3 (au plus tard vendredi 11 novembre 23:59).
 
 - [TP4 - Gestion d'erreur et tests](/tp/tp4/TP4-erreur-et-tests.pdf)
+
+### 11 - 16 novembre
+
+#### Cours
+
+Liens Zoom : https://uqam.zoom.us/my/felixtrepanier
+
+- [11.1 Infrastructure et Déploiement](/cours/10/10.1-tests-performance.pdf)
+- [Démo - tests](https://github.com/coderunner/demo-tests)
+
+#### Autres ressources
+
+- [Docker](https://www.docker.com/)
+- [Kubernetes](https://kubernetes.io/)
+
+#### Labo
+
+Suite du TP4
+
+- [TP4 - Gestion d'erreur et tests](/tp/tp4/TP4-erreur-et-tests.pdf)
