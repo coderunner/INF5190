@@ -246,3 +246,7 @@ Liens Zoom : https://uqam.zoom.us/my/felixtrepanier
 Suite du TP4
 
 - [TP4 - Gestion d'erreur et tests](/tp/tp4/TP4-erreur-et-tests.pdf)
+
+#### Intra - Corrigé
+
+- [Intra - Corrigé](/intra/Intra%20-%20INF5190%20-%20A22%20-%20Correction.pdf)
