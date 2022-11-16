@@ -233,7 +233,7 @@ Remise du TP3 (au plus tard vendredi 11 novembre 23:59).
 
 Liens Zoom : https://uqam.zoom.us/my/felixtrepanier
 
-- [11.1 Infrastructure et Déploiement](/cours/10/10.1-tests-performance.pdf)
+- [11.1 Infrastructure et Déploiement](/cours/11/11.1-infrastructure-d%C3%A9ploiement.pdf)
 - [Démo - tests](https://github.com/coderunner/demo-tests)
 
 #### Autres ressources
