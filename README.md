@@ -16,7 +16,7 @@ Démonstrateurs : TBD
 
 ### Final
 
-16 décembre 2022
+14 décembre 2022
 
 ## Travaux Pratiques
 
@@ -27,7 +27,7 @@ Les dates de début et de remise:
 - Création de l’interface utilisateur - 23 sept, remise le 7 oct
 - Création et intégration d’un API - 7 oct, remise le 21 oct
 - Intégration d’une base de donnée - 21 oct, remise le 11 nov
-- Tests et gestion d’erreurs - 11 nov, remise le 25 nov
+- Tests et gestion d’erreurs - 11 nov, remise le 2 déc
 - Déploiement - 25 nov, remise le 16 déc
 
 ## Horaire
@@ -243,7 +243,7 @@ Liens Zoom : https://uqam.zoom.us/my/felixtrepanier
 
 #### Labo
 
-Suite du TP4
+Suite du TP4 - remise 2 décembre 23:59.
 
 - [TP4 - Gestion d'erreur et tests](/tp/tp4/TP4-erreur-et-tests.pdf)
 
