@@ -250,3 +250,22 @@ Suite du TP4 - remise 2 décembre 23:59.
 #### Intra - Corrigé
 
 - [Intra - Corrigé](/intra/Intra%20-%20INF5190%20-%20A22%20-%20Correction.pdf)
+
+### 12 - 23 novembre
+
+#### Cours
+
+- [12.1 Évolution et maintenance](/cours/12/12.1-%C3%A9volution-maintenance.pdf)
+- [Démo - tests](https://github.com/coderunner/demo-tests)
+- [Démo Tests avec Angular](https://youtu.be/qPQ-97Ze0Tk)
+- [Démo Tests avec SpringBoot](https://youtu.be/SSdvK2N7KvU)
+
+#### Autres ressources
+
+- [Livre - Google SRE](https://sre.google/sre-book/table-of-contents/)
+
+#### Labo
+
+Suite du TP4 - remise 2 décembre 23:59.
+
+- [TP4 - Gestion d'erreur et tests](/tp/tp4/TP4-erreur-et-tests.pdf)
