@@ -269,3 +269,22 @@ Suite du TP4 - remise 2 décembre 23:59.
 Suite du TP4 - remise 2 décembre 23:59.
 
 - [TP4 - Gestion d'erreur et tests](/tp/tp4/TP4-erreur-et-tests.pdf)
+
+### 13 - 30 novembre
+
+#### Cours
+
+- [13.1 Mise à l'échelle](/cours/13/13.1-mise-a-l-echelle.pdf)
+- [13.2 Application web progressive](/cours/13/13.2-application-web-progressive.pdf)
+
+#### Autres ressources
+
+- [Angular PWA](https://angular.io/guide/service-worker-getting-started)
+
+#### Labo
+
+Fin du TP4 - remise 2 décembre 23:59.
+
+Début TP5 - remise vendredi 16 décembre à 23:59.
+
+- [TP5 - Déploiement et surveillance](/tp/tp5/TP5-d%C3%A9ploiement-surveillance.pdf)
