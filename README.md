@@ -288,3 +288,16 @@ Fin du TP4 - remise 2 décembre 23:59.
 Début TP5 - remise vendredi 16 décembre à 23:59.
 
 - [TP5 - Déploiement et surveillance](/tp/tp5/TP5-d%C3%A9ploiement-surveillance.pdf)
+
+### 14 - 7 décembre
+
+#### Cours
+
+- Révision
+- [Information examen final](cours/14/Final-INF5190-Information.pdf)
+
+#### Labo
+
+Suite du TP5 - remise vendredi 16 décembre à 23:59.
+
+- [TP5 - Déploiement et surveillance](/tp/tp5/TP5-d%C3%A9ploiement-surveillance.pdf)
