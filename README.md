@@ -293,7 +293,7 @@ Début TP5 - remise vendredi 16 décembre à 23:59.
 
 #### Cours
 
-- Révision
+- [Révision](cours/14/14.1-r%C3%A9vison-INF5190.pdf)
 - [Information examen final](cours/14/Final-INF5190-Information.pdf)
 
 #### Labo
